@@ -5,7 +5,6 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import medina.jesus.popcornfactory.R
 
 class DetallePelicula : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

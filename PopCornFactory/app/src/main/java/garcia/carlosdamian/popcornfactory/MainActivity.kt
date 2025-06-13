@@ -5,7 +5,8 @@ import android.os.Bundle
 import android.widget.Button
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import medina.jesus.popcornfactory.R
+import garcia.carlosdamian.popcornfactory.R
+
 
 class MainActivity : AppCompatActivity() {
 

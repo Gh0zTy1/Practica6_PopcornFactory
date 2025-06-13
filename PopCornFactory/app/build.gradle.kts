@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "medina.jesus.popcornfactory"
+    namespace = "garcia.carlosdamian.popcornfactory"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "medina.jesus.popcornfactory"
+        applicationId = "garcia.carlosdamian.popcornfactory"
         minSdk = 21
         targetSdk = 35
         versionCode = 1
